@@ -1,0 +1,12 @@
+body {
+    direction: rtl;
+    font-family: Tahoma, sans-serif;
+}
+.phone-box {
+    font-size: 18px;
+    font-weight: bold;
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
