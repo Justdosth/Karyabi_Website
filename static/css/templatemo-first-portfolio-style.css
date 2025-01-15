@@ -20,7 +20,7 @@ https://templatemo.com/tm-578-first-portfolio
   --border-color:                 #e9eaeb;
   --featured-border-color:        #727aab;
 
-  --body-font-family:             'DM Sans', sans-serif;
+  --body-font-family:             'Vazir', 'DM Sans', Arial, sans-serif;
 
   --h1-font-size:                 62px;
   --h2-font-size:                 48px;
@@ -42,8 +42,9 @@ https://templatemo.com/tm-578-first-portfolio
 }
 
 body {
+    direction: rtl;
     background: var(--white-color);
-    font-family: var(--body-font-family); 
+    font-family: var(--body-font-family);
 }
 
 
