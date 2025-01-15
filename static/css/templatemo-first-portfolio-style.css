@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'Lalezar Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('static/fonts/Lalezar Regular'), url('static/fonts/Lalezar-Regular.woff') format('woff');
+  }
 /*
 
 TemplateMo 578 First Portfolio
@@ -5,7 +11,6 @@ TemplateMo 578 First Portfolio
 https://templatemo.com/tm-578-first-portfolio
 
 */
-
 
 /*---------------------------------------
   CUSTOM PROPERTIES ( VARIABLES )             
@@ -20,7 +25,7 @@ https://templatemo.com/tm-578-first-portfolio
   --border-color:                 #e9eaeb;
   --featured-border-color:        #727aab;
 
-  --body-font-family:             'Vazir', 'DM Sans', Arial, sans-serif;
+  --body-font-family:             'Lalezar Regular', 'DM Sans', Arial, sans-serif;
 
   --h1-font-size:                 62px;
   --h2-font-size:                 48px;
@@ -47,6 +52,9 @@ body {
     font-family: var(--body-font-family);
 }
 
+* {
+  font-family: var(--body-font-family);
+}
 
 /*---------------------------------------
   TYPOGRAPHY               
