@@ -19,7 +19,7 @@ https://templatemo.com/tm-578-first-portfolio
   --border-color:                 #e9eaeb;
   --featured-border-color:        #727aab;
 
-  --body-font-family:             'Beiruti', 'DM Sans', Arial, sans-serif;
+  --body-font-family:             'Lalezar', 'Beiruti', 'DM Sans', Arial, sans-serif;
 
   --h1-font-size:                 62px;
   --h2-font-size:                 48px;
@@ -28,7 +28,7 @@ https://templatemo.com/tm-578-first-portfolio
   --h5-font-size:                 24px;
   --h6-font-size:                 22px;
   --p-font-size:                  18px;
-  --menu-font-size:               12px;
+  --menu-font-size:               16px;
   --copyright-font-size:          14px;
 
   --border-radius-large:          100px;
@@ -41,11 +41,23 @@ https://templatemo.com/tm-578-first-portfolio
 }
 
 body {
-    direction: rtl;
     background: var(--white-color);
     font-family: var(--body-font-family);
 }
 
+[lang="en"] {
+  --body-font-family:             'DM Sans', 'Lalezar', 'Beiruti', Arial, sans-serif;
+
+  --h1-font-size:                 62px;
+  --h2-font-size:                 48px;
+  --h3-font-size:                 36px;
+  --h4-font-size:                 32px;
+  --h5-font-size:                 24px;
+  --h6-font-size:                 22px;
+  --p-font-size:                  18px;
+  --menu-font-size:               12px;
+  --copyright-font-size:          14px;
+}
 /*---------------------------------------
   TYPOGRAPHY               
 -----------------------------------------*/
@@ -241,6 +253,22 @@ strong {
 /*---------------------------------------
   CUSTOM BUTTON               
 -----------------------------------------*/
+.lang-switcher {
+  display: flex;
+  align-items: center;
+  margin-left: 1rem !important;
+  margin-right: 1rem !important;
+}
+.lang-switcher a img {
+  display: flex;
+  width: 38px;
+  height: 38px;
+  transition: transform 0.3s ease;
+}
+.lang-switcher a img:hover {
+  transform: scale(1.1); /* Slightly enlarge on hover */
+}
+
 .custom-btn,
 .navbar .custom-btn {
   font-size: var(--p-font-size);

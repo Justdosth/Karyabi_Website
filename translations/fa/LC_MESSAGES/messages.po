@@ -37,10 +37,7 @@ msgid "Toggle navigation"
 msgstr "تغییر وضعیت ناوبری"
 
 msgid "First"
-msgstr "اول"
-
-msgid "120-240-9600"
-msgstr "۱۲۰-۲۴۰-۹۶۰۰"
+msgstr "کاریبا"
 
 msgid "Home"
 msgstr "خانه"
@@ -52,8 +49,95 @@ msgid "Services"
 msgstr "خدمات"
 
 msgid "Projects"
-msgstr "پروژه‌ها"
+msgstr "موقعیت ها"
 
 msgid "Contact"
-msgstr "تماس"
+msgstr "تماس با ما"
 
+msgid "Hello friend!"
+msgstr "سلام!"
+
+msgid "I’m available for freelance work."
+msgstr "ما برای کمک به شما اینجا هستیم"
+
+msgid "Let's begin"
+msgstr "بیایید شروع کنیم"
+
+msgid "My Story"
+msgstr "داستان ما"
+
+msgid "A little bit about Joshua"
+msgstr "کمی درباره کاریبا"
+
+msgid "This one-page HTML portfolio is provided by"
+msgstr "این پورتفولیو HTML تک صفحه‌ای ارائه شده توسط"
+
+msgid "This layout is based on Bootstrap v5.1.3 CSS and JS libraries. Image credits go to"
+msgstr "این چیدمان بر اساس کتابخانه‌های CSS و JS بوت‌استرپ نسخه 5.1.3 ساخته شده است. اعتبار تصاویر به"
+
+msgid "and"
+msgstr "و"
+
+msgid "for images used in this page."
+msgstr "برای تصاویر استفاده شده در این صفحه."
+
+msgid "You are allowed to use this template for your websites. You are not allowed to redistribute the template ZIP file on any other website. Please"
+msgstr "شما مجاز هستید از این قالب برای وب‌سایت‌های خود استفاده کنید. شما مجاز نیستید فایل فشرده این قالب را در هیچ وب‌سایت دیگری توزیع کنید. لطفاً"
+
+msgid "contact us"
+msgstr "با ما تماس بگیرید"
+
+msgid "for more info."
+msgstr "برای اطلاعات بیشتر."
+
+
+msgid "Information"
+msgstr "اطلاعات"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "Joshua Morgan"
+msgstr "فاطمه طاهر"
+
+msgid "Birthday"
+msgstr "تاریخ تولد"
+
+msgid "Aug 12, 1986"
+msgstr "۲۹ دی، ۱۳۷۷"
+
+msgid "Phone"
+msgstr "شماره تلفن"
+
+msgid "120-240-9600"
+msgstr "۹۸-۰۹۳۸-۸۹۷-۹۱۴۷+"
+
+msgid "Email"
+msgstr "ایمیل"
+
+msgid "hello@josh.design"
+msgstr "fatima1999ta@gmail.com"
+
+msgid "20+"
+msgstr "۲+"
+
+msgid "Years of Experiences"
+msgstr "سال تجربه"
+
+msgid "245"
+msgstr "۲۴۵"
+
+msgid "Happy Customers"
+msgstr "مشتریان خوشحال"
+
+msgid "640"
+msgstr "۶۴۰"
+
+msgid "Project Finished"
+msgstr "پروژه انجام‌شده"
+
+msgid "72+"
+msgstr "۷۲+"
+
+msgid "Digital Awards"
+msgstr "جوایز دیجیتال"
