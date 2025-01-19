@@ -141,3 +141,22 @@ msgstr "۷۲+"
 
 msgid "Digital Awards"
 msgstr "جوایز دیجیتال"
+
+
+msgid "Companies I've had worked"
+msgstr "شرکت‌هایی که با آنها کار کرده‌ایم"
+
+msgid "Cachet logo"
+msgstr "لوگوی کشه"
+
+msgid "Guitar Center logo"
+msgstr "لوگوی گیتار سنتر"
+
+msgid "Tokico logo"
+msgstr "لوگوی توکیکو"
+
+msgid "Shopify logo"
+msgstr "لوگوی شاپیفای"
+
+msgid "Profil Rejser logo"
+msgstr "لوگوی پروفیل رجسر"
