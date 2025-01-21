@@ -58,6 +58,25 @@ body {
   --menu-font-size:               12px;
   --copyright-font-size:          14px;
 }
+[lang="en"] .services-icon-wrap {
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius-small);
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 50%;
+  height: 55%;
+  transform: rotate(-35deg) translateY(55px);
+  transition: all ease 0.5s;
+}
+[lang="en"] .services-price-text {
+  color: var(--white-color);
+  font-size: var(--copyright-font-size);
+  font-weight: var(--font-weight-bold);
+}
+[lang="en"] .bi-telephone-plus::before {
+  vertical-align: -0.225rem;
+}
 /*---------------------------------------
   TYPOGRAPHY               
 -----------------------------------------*/
@@ -273,6 +292,7 @@ strong {
 .navbar .custom-btn {
   font-size: var(--p-font-size);
   font-weight: var(--font-weight-bold);
+  align-items: flex-end;
 }
 
 .navbar .custom-btn {
@@ -490,6 +510,9 @@ strong {
   top: 8px;
 }
 
+.bi-telephone-plus::before {
+  vertical-align: -0.325rem;
+}
 
 /*---------------------------------------
   HERO              
@@ -696,7 +719,7 @@ strong {
   right: 0;
   width: 50%;
   height: 55%;
-  transform: rotate(-35deg) translateY(55px);
+  transform: rotate(35deg) translateY(210px) translateX(-210px);
   transition: all ease 0.5s;
 }
 
@@ -725,7 +748,7 @@ strong {
 
 .services-price-text {
   color: var(--white-color);
-  font-size: var(--copyright-font-size);
+  font-size: 16px;
   font-weight: var(--font-weight-bold);
 }
 
@@ -856,8 +879,9 @@ strong {
 .form-check-label-text {
   color: var(--p-color);
   display: block;
-  font-size: copyright-font-size;
+  font-size: var(--copyright-font-size);
   margin-top: 5px;
+  white-space: nowrap;
 }
 
 .form-check-input[type=checkbox] {
@@ -868,6 +892,7 @@ strong {
   width: 100%;
   margin-top: 0;
   margin-left: 0;
+  margin-right: 0;
   padding: 40px 50px;
 }
 
@@ -875,8 +900,7 @@ strong {
   background-image: none;
 }
 
-.form-check-input:hover,
-.form-check-input:checked {
+.form-check-input:hover {
   background-color: transparent;
   border-color: var(--secondary-color);
 }

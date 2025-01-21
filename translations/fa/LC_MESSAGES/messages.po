@@ -160,3 +160,146 @@ msgstr "لوگوی شاپیفای"
 
 msgid "Profil Rejser logo"
 msgstr "لوگوی پروفیل رجسر"
+
+
+msgid "Services"
+msgstr "خدمات"
+
+msgid "Websites"
+msgstr "وب‌سایت‌ها"
+
+msgid "$2,400"
+msgstr "۲,۴۰۰ دلار"
+
+msgid "You may want to explore Too CSS for a great collection of free HTML CSS templates."
+msgstr "ممکن است بخواهید برای مجموعه‌ای عالی از قالب‌های HTML و CSS رایگان، Too CSS را بررسی کنید."
+
+msgid "Discover More"
+msgstr "بیشتر کشف کنید"
+
+msgid "Branding"
+msgstr "برندسازی"
+
+msgid "$1,200"
+msgstr "۱,۲۰۰ دلار"
+
+msgid "You can explore more CSS templates on the TemplateMo website by browsing through different tags."
+msgstr "شما می‌توانید با مرور برچسب‌های مختلف در وب‌سایت TemplateMo، قالب‌های CSS بیشتری را کشف کنید."
+
+msgid "Ecommerce"
+msgstr "تجارت الکترونیک"
+
+msgid "$3,600"
+msgstr "۳,۶۰۰ دلار"
+
+msgid "If you need a customized ecommerce website for your business, feel free to discuss it with me."
+msgstr "اگر به یک وب‌سایت تجارت الکترونیک سفارشی برای کسب‌وکار خود نیاز دارید، با من مشورت کنید."
+
+msgid "SEO"
+msgstr "سئو"
+
+msgid "$1,450"
+msgstr "۱,۴۵۰ دلار"
+
+msgid "To list your website first on any search engine, we will work together. First Portfolio is a one-page CSS template available for free download."
+msgstr "برای قرار دادن وب‌سایت شما در صدر هر موتور جستجو، ما با هم کار خواهیم کرد. First Portfolio یک قالب CSS تک‌صفحه‌ای است که به صورت رایگان قابل دانلود است."
+
+msgid "Handshake after signing a contract"
+msgstr "دست دادن بعد از امضای قرارداد"
+
+
+msgid "Projects"
+msgstr "پروژه‌ها"
+
+msgid "Desk work study aesthetics"
+msgstr "زیبایی‌شناسی کار پشت میز"
+
+msgid "Branding"
+msgstr "برندسازی"
+
+msgid "Zoik agency"
+msgstr "آژانس Zoik"
+
+msgid "Zoik agency project"
+msgstr "پروژه آژانس Zoik"
+
+msgid "Photography"
+msgstr "عکاسی"
+
+msgid "The Watch"
+msgstr "ساعت"
+
+msgid "The Watch project"
+msgstr "پروژه ساعت"
+
+msgid "Website"
+msgstr "وب‌سایت"
+
+msgid "Polo"
+msgstr "پولو"
+
+msgid "Polo project"
+msgstr "پروژه پولو"
+
+msgid "Say Hi"
+msgstr "سلام کن"
+
+msgid "Services"
+msgstr "خدمات"
+
+msgid "Websites"
+msgstr "وب‌سایت‌ها"
+
+msgid "Branding"
+msgstr "برندسازی"
+
+msgid "Ecommerce"
+msgstr "تجارت الکترونیک"
+
+msgid "SEO"
+msgstr "سئو"
+
+msgid "Stay connected"
+msgstr "در ارتباط باشید"
+
+msgid "Start a project"
+msgstr "شروع یک پروژه"
+
+msgid "I’m available for freelance projects"
+msgstr "من برای پروژه‌های آزاد در دسترس هستم"
+
+msgid "About"
+msgstr "درباره ما"
+
+msgid "Joshua is a professional web developer. Feel free to get in touch with me."
+msgstr "جاشوا یک توسعه‌دهنده وب حرفه‌ای است. با خیال راحت با من تماس بگیرید."
+
+msgid "Email"
+msgstr "ایمیل"
+
+msgid "Call"
+msgstr "تماس"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "Email address"
+msgstr "آدرس ایمیل"
+
+msgid "Tell me about the project"
+msgstr "درباره پروژه به من بگویید"
+
+msgid "Send"
+msgstr "ارسال"
+
+msgid "Copyright © 2036"
+msgstr "کپی‌رایت © ۲۰۳۶"
+
+msgid "First Portfolio"
+msgstr "اولین نمونه کار"
+
+msgid "Company. All rights reserved."
+msgstr "شرکت. کلیه حقوق محفوظ است."
+
+msgid "Design:"
+msgstr "طراحی:"
