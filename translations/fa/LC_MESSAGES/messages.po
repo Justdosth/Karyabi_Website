@@ -19,7 +19,7 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 
 msgid "First Portfolio Bootstrap 5 Theme"
-msgstr "سایت کاریابی"
+msgstr "سایت کار با ما"
 
 msgid "Your description here"
 msgstr "توضیحات شما در اینجا"
@@ -37,7 +37,7 @@ msgid "Toggle navigation"
 msgstr "تغییر وضعیت ناوبری"
 
 msgid "First"
-msgstr "کاریبا"
+msgstr "کار با ما"
 
 msgid "Home"
 msgstr "خانه"
@@ -46,10 +46,10 @@ msgid "About"
 msgstr "درباره ما"
 
 msgid "Services"
-msgstr "خدمات"
+msgstr "خدمات ما"
 
 msgid "Projects"
-msgstr "موقعیت ها"
+msgstr "همکاری با ما"
 
 msgid "Contact"
 msgstr "تماس با ما"
@@ -93,6 +93,12 @@ msgstr "برای اطلاعات بیشتر."
 
 msgid "Information"
 msgstr "اطلاعات"
+
+msgid "We are on..."
+msgstr "ما بر آنیم..."
+
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+msgstr "Lorem Ipsum به سادگی متن ساختگی صنعت چاپ و حروفچینی است. لورم ایپسوم از دهه 1500 به عنوان متن ساختگی استاندارد صنعت بوده است، زمانی که یک چاپگر ناشناخته یک گالری از نوع را برداشت و آن را به هم زد تا یک کتاب نمونه بسازد. نه تنها از پنج قرن، بلکه از جهش به حروفچینی الکترونیکی نیز جان سالم به در برده است که اساساً بدون تغییر باقی مانده است. در دهه 1960 با انتشار برگه های Letraset حاوی معابر Lorem Ipsum و اخیراً با نرم افزار انتشار دسکتاپ مانند Aldus PageMaker از جمله نسخه های Lorem Ipsum رایج شد."
 
 msgid "Name"
 msgstr "نام"
@@ -144,7 +150,16 @@ msgstr "جوایز دیجیتال"
 
 
 msgid "Companies I've had worked"
-msgstr "شرکت‌هایی که با آنها کار کرده‌ایم"
+msgstr "برترین مزیت های رقابتی"
+
+msgid "First comment"
+msgstr "اولین نظر"
+msgid "Second comment"
+msgstr "دومین نظر"
+msgid "Third comment"
+msgstr "سومین نظر"
+msgid "Fourth comment"
+msgstr "چهارمین نظر"
 
 msgid "Cachet logo"
 msgstr "لوگوی کشه"
@@ -231,6 +246,9 @@ msgstr "ساعت"
 
 msgid "The Watch project"
 msgstr "پروژه ساعت"
+
+msgid "Request"
+msgstr "درخواست"
 
 msgid "Website"
 msgstr "وب‌سایت"
