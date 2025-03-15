@@ -19,7 +19,7 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 
 msgid "First Portfolio Bootstrap 5 Theme"
-msgstr "سایت کاریابی"
+msgstr "سایت کار با ما"
 
 msgid "Your description here"
 msgstr "توضیحات شما در اینجا"
@@ -37,7 +37,7 @@ msgid "Toggle navigation"
 msgstr "تغییر وضعیت ناوبری"
 
 msgid "First"
-msgstr "کاریبا"
+msgstr "کار با ما"
 
 msgid "Home"
 msgstr "خانه"
@@ -46,10 +46,10 @@ msgid "About"
 msgstr "درباره ما"
 
 msgid "Services"
-msgstr "خدمات"
+msgstr "خدمات ما"
 
 msgid "Projects"
-msgstr "موقعیت ها"
+msgstr "همکاری با ما"
 
 msgid "Contact"
 msgstr "تماس با ما"
@@ -93,6 +93,12 @@ msgstr "برای اطلاعات بیشتر."
 
 msgid "Information"
 msgstr "اطلاعات"
+
+msgid "We are on..."
+msgstr "ما بر آنیم..."
+
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+msgstr "Lorem Ipsum به سادگی متن ساختگی صنعت چاپ و حروفچینی است. لورم ایپسوم از دهه 1500 به عنوان متن ساختگی استاندارد صنعت بوده است، زمانی که یک چاپگر ناشناخته یک گالری از نوع را برداشت و آن را به هم زد تا یک کتاب نمونه بسازد. نه تنها از پنج قرن، بلکه از جهش به حروفچینی الکترونیکی نیز جان سالم به در برده است که اساساً بدون تغییر باقی مانده است. در دهه 1960 با انتشار برگه های Letraset حاوی معابر Lorem Ipsum و اخیراً با نرم افزار انتشار دسکتاپ مانند Aldus PageMaker از جمله نسخه های Lorem Ipsum رایج شد."
 
 msgid "Name"
 msgstr "نام"
@@ -141,3 +147,177 @@ msgstr "۷۲+"
 
 msgid "Digital Awards"
 msgstr "جوایز دیجیتال"
+
+
+msgid "Companies I've had worked"
+msgstr "برترین مزیت های رقابتی"
+
+msgid "First comment"
+msgstr "اولین نظر"
+msgid "Second comment"
+msgstr "دومین نظر"
+msgid "Third comment"
+msgstr "سومین نظر"
+msgid "Fourth comment"
+msgstr "چهارمین نظر"
+
+msgid "Cachet logo"
+msgstr "لوگوی کشه"
+
+msgid "Guitar Center logo"
+msgstr "لوگوی گیتار سنتر"
+
+msgid "Tokico logo"
+msgstr "لوگوی توکیکو"
+
+msgid "Shopify logo"
+msgstr "لوگوی شاپیفای"
+
+msgid "Profil Rejser logo"
+msgstr "لوگوی پروفیل رجسر"
+
+
+msgid "Services"
+msgstr "خدمات"
+
+msgid "Websites"
+msgstr "وب‌سایت‌ها"
+
+msgid "$2,400"
+msgstr "۲,۴۰۰ دلار"
+
+msgid "You may want to explore Too CSS for a great collection of free HTML CSS templates."
+msgstr "ممکن است بخواهید برای مجموعه‌ای عالی از قالب‌های HTML و CSS رایگان، Too CSS را بررسی کنید."
+
+msgid "Discover More"
+msgstr "بیشتر کشف کنید"
+
+msgid "Branding"
+msgstr "برندسازی"
+
+msgid "$1,200"
+msgstr "۱,۲۰۰ دلار"
+
+msgid "You can explore more CSS templates on the TemplateMo website by browsing through different tags."
+msgstr "شما می‌توانید با مرور برچسب‌های مختلف در وب‌سایت TemplateMo، قالب‌های CSS بیشتری را کشف کنید."
+
+msgid "Ecommerce"
+msgstr "تجارت الکترونیک"
+
+msgid "$3,600"
+msgstr "۳,۶۰۰ دلار"
+
+msgid "If you need a customized ecommerce website for your business, feel free to discuss it with me."
+msgstr "اگر به یک وب‌سایت تجارت الکترونیک سفارشی برای کسب‌وکار خود نیاز دارید، با من مشورت کنید."
+
+msgid "SEO"
+msgstr "سئو"
+
+msgid "$1,450"
+msgstr "۱,۴۵۰ دلار"
+
+msgid "To list your website first on any search engine, we will work together. First Portfolio is a one-page CSS template available for free download."
+msgstr "برای قرار دادن وب‌سایت شما در صدر هر موتور جستجو، ما با هم کار خواهیم کرد. First Portfolio یک قالب CSS تک‌صفحه‌ای است که به صورت رایگان قابل دانلود است."
+
+msgid "Handshake after signing a contract"
+msgstr "دست دادن بعد از امضای قرارداد"
+
+
+msgid "Projects"
+msgstr "پروژه‌ها"
+
+msgid "Desk work study aesthetics"
+msgstr "زیبایی‌شناسی کار پشت میز"
+
+msgid "Branding"
+msgstr "برندسازی"
+
+msgid "Zoik agency"
+msgstr "آژانس Zoik"
+
+msgid "Zoik agency project"
+msgstr "پروژه آژانس Zoik"
+
+msgid "Photography"
+msgstr "عکاسی"
+
+msgid "The Watch"
+msgstr "ساعت"
+
+msgid "The Watch project"
+msgstr "پروژه ساعت"
+
+msgid "Request"
+msgstr "درخواست"
+
+msgid "Website"
+msgstr "وب‌سایت"
+
+msgid "Polo"
+msgstr "پولو"
+
+msgid "Polo project"
+msgstr "پروژه پولو"
+
+msgid "Say Hi"
+msgstr "سلام کن"
+
+msgid "Services"
+msgstr "خدمات"
+
+msgid "Websites"
+msgstr "وب‌سایت‌ها"
+
+msgid "Branding"
+msgstr "برندسازی"
+
+msgid "Ecommerce"
+msgstr "تجارت الکترونیک"
+
+msgid "SEO"
+msgstr "سئو"
+
+msgid "Stay connected"
+msgstr "در ارتباط باشید"
+
+msgid "Start a project"
+msgstr "شروع یک پروژه"
+
+msgid "I’m available for freelance projects"
+msgstr "من برای پروژه‌های آزاد در دسترس هستم"
+
+msgid "About"
+msgstr "درباره ما"
+
+msgid "Joshua is a professional web developer. Feel free to get in touch with me."
+msgstr "جاشوا یک توسعه‌دهنده وب حرفه‌ای است. با خیال راحت با من تماس بگیرید."
+
+msgid "Email"
+msgstr "ایمیل"
+
+msgid "Call"
+msgstr "تماس"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "Email address"
+msgstr "آدرس ایمیل"
+
+msgid "Tell me about the project"
+msgstr "درباره پروژه به من بگویید"
+
+msgid "Send"
+msgstr "ارسال"
+
+msgid "Copyright © 2036"
+msgstr "کپی‌رایت © ۲۰۳۶"
+
+msgid "First Portfolio"
+msgstr "اولین نمونه کار"
+
+msgid "Company. All rights reserved."
+msgstr "شرکت. کلیه حقوق محفوظ است."
+
+msgid "Design:"
+msgstr "طراحی:"
